@@ -1,0 +1,8 @@
+{
+  "name": "Remix 4000 Essential English Words Master",
+  "description": "스마트폰에서 매일 최고의 몰입도로 영어 학습을 할 수 있는 4000 Essential English Words 인터랙티브 마스터 웹앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
